@@ -1,6 +1,6 @@
 # brailleart
 some fuckinnnnnnnn pictures uhhhhhh text that look liek pictures yea
 ## execution process
-1. clone repository
-2. cd to repository
+1. git clone https://github.com/Lis0v/brailleart.git
+2. cd brailleart
 3. sh [scriptname].sh
